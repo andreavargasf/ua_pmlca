@@ -1,0 +1,9 @@
+name: ua_pmlca
+channels:
+  - cmutel
+  - conda-forge
+dependencies:
+  - brightway25_nosolver
+  - jupyterlab
+  - spyder
+  - scikit-umfpack
