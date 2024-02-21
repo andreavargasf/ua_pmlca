@@ -1,0 +1,10 @@
+brightway25 or brightway25_nosolver
+scikit-umfpack
+black
+pylint
+isort
+nbdime
+jupyterlab
+jupyterlab-code-formatter
+ipwidgets
+SALib
