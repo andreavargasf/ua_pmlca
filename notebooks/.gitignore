@@ -2,7 +2,9 @@
 
 ecoinvent\ 3.9.1_cutoff_ecoSpold02/
 ~$Foreground.xlsx
+~$Foreground_unique.xlsx
 ~$Uncertainties.xlsx
 ~$Samples.xlsx
 ~$Correlated_samples.xlsx
+~$Final_samples.xlsx
 associate_samples_to_exchanges2.ipynb
